@@ -2,7 +2,7 @@
 
 **Name:** Mikhail Kazhamiakin
 **Address:** Belarus, Minsk\
-**Phone:** +375-33-61-93-099\
+**Phone:** +375-44-708-37-11\
 **Date of birth:** 1 August 2002\
 **Age:** 18\
 **GitHub** <https://github.com/FURY-PERSON/rsschool-cv>\
