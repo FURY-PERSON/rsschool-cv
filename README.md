@@ -1,2 +1,1 @@
-# rsschool-cv
- My cv
+https://FURY-PERSON/rsschool-cv/cv
