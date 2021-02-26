@@ -17,6 +17,7 @@ I want to try myself as a web developer.
 - с++ \*4kyu [codewars](https://www.codewars.com/users/fury-person)\*
 - basic level Python
 - basic leve JS CCS and HTML
+- intermediate level of english
 
 ## example of my code on c++ (write this function by myself)
 
@@ -24,7 +25,7 @@ I want to try myself as a web developer.
 //Finging the number of combinations
 int rf(int n, int k)
 {
-	if (n = k)
+	if (n == k)
 		return 1;
 	if (k == 1||(n-k-1)==0)
 		return n;
