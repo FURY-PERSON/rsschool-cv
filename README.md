@@ -1,2 +1,2 @@
-https://FURY-PERSON/rsschool-cv/cv
-https://your-github-account.github.io/rsschool-cv/
+https://fury-person.github.io/rsschool-cv/cv
+https://fury-person.github.io/rsschool-cv/
