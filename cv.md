@@ -40,5 +40,5 @@ None
 # Education
 
 1. Midle school №59 Gomel
-1. Hight school Gomel lysium №1
-1. BSUIR (staduing)
+1. Height school Gomel lycium №1
+1. BSUIR (stadying)
