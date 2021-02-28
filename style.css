@@ -1,0 +1,36 @@
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  padding-left: 45px;
+}
+
+header {
+  text-align: center;
+}
+
+.h {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+/*main*/
+.info {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+body {
+  width: 100%;
+}
+
+main {
+  width: 400px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.information {
+  margin: 50px auto;
+}

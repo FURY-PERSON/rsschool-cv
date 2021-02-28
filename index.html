@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF8" />
+    <link rel="stylesheet" href="style.css" />
+    <title>My cv</title>
+  </head>
+  <header>
+    <h1>My cv</h1>
+  </header>
+
+  <body>
+    <main>
+      <div class="information">
+        <h1>Personal information</h1>
+        <span class="h"
+          >Name: <span class="info">Kazhamiakin Mikhail</span> </span
+        ><br />
+        <span class="h">Address: <span class="info">Belarus, Minsk</span> </span
+        ><br />
+        <span class="h"
+          >Phone: <span class="info">+375-44-708-37-11</span> </span
+        ><br />
+        <span class="h"
+          >Date of birth: <span class="info">1 August 2002</span> </span
+        ><br />
+        <span class="h">Age: <span class="info">18</span> </span><br />
+        <a href="https://github.com/FURY-PERSON">GitHub</a>
+      </div>
+
+      <div class="information">
+        <h1>About Me</h1>
+        <arcticle>
+          I`m hard working and catch on quick. And i am good at math.<br />
+          I want to try myself as a web developer.
+        </arcticle>
+      </div>
+
+      <div class="information">
+        <h2>Skills</h2>
+        <ul>
+          <li>c++ (4kyu) <a>https://www.codewars.com/users/fury-person</a></li>
+          <li>basic level Python</li>
+          <li>basic leve JS CCS and HTML</li>
+          <li>intermediate level of english</li>
+        </ul>
+
+        <h4>Example of my code on c++ (write this function by myself)</h4>
+        <div class="example_of_code">
+          <pre>
+//Finging the number of combinations
+int rf(int n, int k)
+{
+	if (n == k)
+		return 1;
+	if (k == 1||(n-k-1)==0)
+		return n;
+	return rf(n - 1, k - 1) + rf(n - 1, k);
+}</pre
+          >
+        </div>
+      </div>
+      <div class="information">
+        <h1>Work experience</h1>
+        <p>None</p>
+      </div>
+
+      <div class="information">
+        <h1>Education</h1>
+        <ol>
+          <li>Midle school №59 Gomel</li>
+          <li>Height school Gomel lycium №1</li>
+          <li>BSUIR (stadying)</li>
+        </ol>
+      </div>
+    </main>
+  </body>
+</html>
